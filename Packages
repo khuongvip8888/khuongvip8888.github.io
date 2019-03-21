@@ -1,9 +1,9 @@
 Package: com.yourepo.khuongvip8888.vxtn
 Name: Ví Xả Lê Tân
-Version: 100
+Version: 1.0
 Section: Tweaks
 Architecture: iphoneos-arm
-Filename: ./debs/qangu.deb
+Filename: ./debs/letan.deb
 Size: 117
 Description: An awesome MobileSubstrate tweak!
 Author: Duynamdinh <namdinhvip888@gmail.com>
