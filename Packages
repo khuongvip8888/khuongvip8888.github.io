@@ -49,7 +49,7 @@ Author: DuyHa
 
 Package: com.khuongvip8888.vithuan
 Name: Ví Xả Thuận
-Version: 1.5
+Version: 1.4
 Architecture: iphoneos-arm
 Filename: ./debs/thuan.deb
 SHA1:76ef5ef21853cf34059cc47e7120e3a1c5b956c4
@@ -81,7 +81,7 @@ Author: DuyHa
 
 Package: com.khuongvip8888.vichianh2
 Name: Ví Xả Khương(Chị Ánh 2)
-Version: 1.5
+Version: 1.6
 Architecture: iphoneos-arm
 Filename: ./debs/chianh2.deb
 SHA1:121b0a5e0eb90737bf693e235dceabc70ec3fd54
@@ -97,7 +97,7 @@ Author: DuyHa
 
 Package: com.khuongvip8888.vigianglongle
 Name: Ví Xả Khương(daminghu của giang)
-Version: 1.5
+Version: 1.7
 Architecture: iphoneos-arm
 Filename: ./debs/gianglongle.deb
 SHA1:5fa32861c9d46f4750b10ea25782d53d60ea50df
@@ -113,7 +113,7 @@ Author: DuyHa
 
 Package: com.khuongvip8888.vitaotau
 Name: Ví PaiCSendHelper(Táo Tầu)
-Version: 1.5
+Version: 1.8
 Architecture: iphoneos-arm
 Filename: ./debs/PaiCSendHelper.deb
 SHA1:e850c8092c520cd3c1b73a70b124bfa6a7926343
