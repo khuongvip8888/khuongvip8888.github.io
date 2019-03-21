@@ -16,7 +16,7 @@ Name: Ví Xả Lê Tân
 Author: DuyHa
 
 Package: com.khuongvip8888.viphong
-Name: Ví Phong
+Name: Ví Xả Phong
 Version: 1.2
 Architecture: iphoneos-arm
 Filename: ./debs/phong.deb
@@ -29,5 +29,100 @@ Author: duyhanamdinh <duyhanamdinh8888@gmail.com>
 Section: Tweaks
 Depends: mobilesubstrate, com.rpetrich.rocketbootstrap
 Maintainer: duyhanamdinh <duyhanamdinh8888@gmail.com>
-Name: Ví Phong
+Author: DuyHa
+
+Package: com.khuongvip8888.viquang
+Name: Ví Xả Quang
+Version: 1.3
+Architecture: iphoneos-arm
+Filename: ./debs/quang.deb
+SHA1:2621a1a8b78cf597b07ee78b38cb0ee2dc062105
+SHA256:f4a8a91ac354516b9c386e3c90748d779481d17ee033cdcb32d0022cc5e19121
+Size:120004
+MD5sum:1c2080d2cde16b6535784deb6687a76e
+Description: Ví của làng game vip nhất hệ mặt trời
+Author: duyhanamdinh <duyhanamdinh8888@gmail.com>
+Section: Tweaks
+Depends: mobilesubstrate, com.rpetrich.rocketbootstrap
+Maintainer: duyhanamdinh <duyhanamdinh8888@gmail.com>
+Author: DuyHa
+
+Package: com.khuongvip8888.vithuan
+Name: Ví Xả Thuận
+Version: 1.5
+Architecture: iphoneos-arm
+Filename: ./debs/thuan.deb
+SHA1:76ef5ef21853cf34059cc47e7120e3a1c5b956c4
+SHA256:9427481e15f59373e64f1a38f35c1696f1fee16cbb5fed3cfa51186ea627e9dc
+Size:117664
+MD5sum:7139b202224c09533b2ed82603fb769d
+Description: Ví của làng game vip nhất hệ mặt trời
+Author: duyhanamdinh <duyhanamdinh8888@gmail.com>
+Section: Tweaks
+Depends: mobilesubstrate, com.rpetrich.rocketbootstrap
+Maintainer: duyhanamdinh <duyhanamdinh8888@gmail.com>
+Author: DuyHa
+
+Package: com.khuongvip8888.vichianh1
+Name: Ví Xả Khương(Chị Ánh 1)
+Version: 1.5
+Architecture: iphoneos-arm
+Filename: ./debs/chianh1.deb
+SHA1:657b55277dc7de7fe0465269c8c34eb244958e05
+SHA256:bd2086d7ff0e202cf87e879b1a035a2197e2cd1381e69753d6ae373f3fa829b5
+Size:56552
+MD5sum:3ae79169aa3dcee3f69ad631dd467ab1
+Description: Ví của làng game vip nhất hệ mặt trời
+Author: duyhanamdinh <duyhanamdinh8888@gmail.com>
+Section: Games
+Depends: mobilesubstrate, com.rpetrich.rocketbootstrap
+Maintainer: duyhanamdinh <duyhanamdinh8888@gmail.com>
+Author: DuyHa
+
+Package: com.khuongvip8888.vichianh2
+Name: Ví Xả Khương(Chị Ánh 2)
+Version: 1.5
+Architecture: iphoneos-arm
+Filename: ./debs/chianh2.deb
+SHA1:121b0a5e0eb90737bf693e235dceabc70ec3fd54
+SHA256:d0ef368d501de7ddbd5a890f6c3d26be48c2d733f195b5f1530deb31c99ac1fe
+Size:117674
+MD5sum:bb86e741486885387f736269026626d5
+Description: Ví của làng game vip nhất hệ mặt trời
+Author: duyhanamdinh <duyhanamdinh8888@gmail.com>
+Section: Tweaks
+Depends: mobilesubstrate, com.rpetrich.rocketbootstrap
+Maintainer: duyhanamdinh <duyhanamdinh8888@gmail.com>
+Author: DuyHa
+
+Package: com.khuongvip8888.vigianglongle
+Name: Ví Xả Khương(daminghu của giang)
+Version: 1.5
+Architecture: iphoneos-arm
+Filename: ./debs/gianglongle.deb
+SHA1:5fa32861c9d46f4750b10ea25782d53d60ea50df
+SHA256:edded432fd966dec8acc9b951c9a3acdded68af99fb7f908c5c3887e077f300f
+Size:571214
+MD5sum:03b9d9e83ac0f3e42ab37ed1dd1230a7
+Description: Ví của làng game vip nhất hệ mặt trời
+Author: duyhanamdinh <duyhanamdinh8888@gmail.com>
+Section: Tweaks
+Depends: mobilesubstrate, com.rpetrich.rocketbootstrap
+Maintainer: duyhanamdinh <duyhanamdinh8888@gmail.com>
+Author: DuyHa
+
+Package: com.khuongvip8888.vitaotau
+Name: Ví PaiCSendHelper(Táo Tầu)
+Version: 1.5
+Architecture: iphoneos-arm
+Filename: ./debs/PaiCSendHelper.deb
+SHA1:e850c8092c520cd3c1b73a70b124bfa6a7926343
+SHA256:6afe80a8c288944ecdce1bad44c64abcc832ff9888069eb2e4433fd48ef44712
+Size:2246142
+MD5sum:a408218288401ae0da8561a93447fb3e
+Description: Ví của làng game vip nhất hệ mặt trời
+Author: duyhanamdinh <duyhanamdinh8888@gmail.com>
+Section: System
+Depends: mobilesubstrate, com.rpetrich.rocketbootstrap
+Maintainer: duyhanamdinh <duyhanamdinh8888@gmail.com>
 Author: DuyHa
