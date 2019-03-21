@@ -4,7 +4,7 @@ Section: Tweaks
 Architecture: iphoneos-arm
 Filename: ./debs/letan.deb
 Size: 117
-MD5sum:cea0ede708732c2c90eecbaf0eceba47
+MD5sum: cea0ede708732c2c90eecbaf0eceba47
 Description: An awesome MobileSubstrate tweak!
 Author: Duynamdinh <namdinhvip888@gmail.com>
 Section: Tweaks
@@ -19,7 +19,7 @@ Version: 1.2
 Architecture: iphoneos-arm
 Filename: ./debs/phong.deb
 Size: 114
-MD5sum:77200fbb0835f1bb74a4f4f4e7b4e0b1
+MD5sum: 77200fbb0835f1bb74a4f4f4e7b4e0b1
 Description: Ví của làng game vip nhất hệ mặt trời
 Author: duyhanamdinh <duyhanamdinh8888@gmail.com>
 Section: Tweaks
