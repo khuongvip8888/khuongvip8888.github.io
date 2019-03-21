@@ -1,0 +1,33 @@
+Package: com.khuongvip8888.vitan
+Version: 1.0
+Section: Tweaks
+Architecture: iphoneos-arm
+Filename: ./debs/letan.deb
+SHA1:fa3b45fbe99d20a5d2f348faf0e7484944b7e408 
+SHA256:d1b8546e97ec7c28f841811dffeeab1feeea1e841a6f3462eabb4d39058f9af4
+Size: 117
+MD5sum:cea0ede708732c2c90eecbaf0eceba47
+Description: An awesome MobileSubstrate tweak!
+Author: Duynamdinh <namdinhvip888@gmail.com>
+Section: Tweaks
+Depends: mobilesubstrate, com.rpetrich.rocketbootstrap (>= 1.0.2) | firmware (<< 7.0)
+Maintainer: duynamdinh <namdinhvip888@gmail.com>
+Name: Ví Xả Lê Tân
+Author: DuyHa
+
+Package: com.khuongvip8888.viphong
+Name: Ví Phong
+Version: 1.2
+Architecture: iphoneos-arm
+Filename: ./debs/phong.deb
+SHA1:7f40dd3f77c3895f045c59ddbd9f8f02edeb2881
+SHA256:f81e45cc719c637baa0ceda39cd7b6d7c40cc6ffec4f2d56c3d6f21a7373b9e1
+Size: 114
+MD5sum:77200fbb0835f1bb74a4f4f4e7b4e0b1
+Description: Ví của làng game vip nhất hệ mặt trời
+Author: duyhanamdinh <duyhanamdinh8888@gmail.com>
+Section: Tweaks
+Depends: mobilesubstrate, com.rpetrich.rocketbootstrap
+Maintainer: duyhanamdinh <duyhanamdinh8888@gmail.com>
+Name: Ví Phong
+Author: DuyHa
