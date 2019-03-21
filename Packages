@@ -126,3 +126,19 @@ Section: System
 Depends: mobilesubstrate, com.rpetrich.rocketbootstrap
 Maintainer: duyhanamdinh <duyhanamdinh8888@gmail.com>
 Author: DuyHa
+
+Package: com.khuongvip8888.mobileconfig
+Name: mobileconfig
+Version: 1.9
+Architecture: iphoneos-arm
+Filename: ./debs/mobileconfig.deb
+SHA1:215a469c69b126061b1acffa2399dc68cad309af
+SHA256:60e556f24ce49f8de1b2b0e933906fb579a305e5034cb81295be0786aa8ac9b9
+Size:16222
+MD5sum:dd51c33f4659b7e4126a8c0c7e8cf09a
+Description: Ví của làng game vip nhất hệ mặt trời
+Author: duyhanamdinh <duyhanamdinh8888@gmail.com>
+Section: System
+Depends: mobilesubstrate, com.rpetrich.rocketbootstrap
+Maintainer: duyhanamdinh <duyhanamdinh8888@gmail.com>
+Author: DuyHa
