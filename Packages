@@ -1,0 +1,13 @@
+Package: com.yourepo.khuongvip8888.vxtn
+Name: Ví Xả Lê Tân
+Version: 100
+Section: Tweaks
+Architecture: iphoneos-arm
+Filename: ./debs/qangu.deb
+Size: 117
+Description: An awesome MobileSubstrate tweak!
+Author: Duynamdinh <namdinhvip888@gmail.com>
+Section: Tweaks
+Depends: mobilesubstrate, com.rpetrich.rocketbootstrap (>= 1.0.2) | firmware (<< 7.0)
+Maintainer: duynamdinh <namdinhvip888@gmail.com>
+MD5sum: ce a0 ed e7 08 73 2c 2c 90 ee cb af 0e ce ba 47
