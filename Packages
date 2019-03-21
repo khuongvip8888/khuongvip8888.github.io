@@ -3,10 +3,10 @@ Version: 1.0
 Section: Tweaks
 Architecture: iphoneos-arm
 Filename: ./debs/letan.deb
-SHA1:fa3b45fbe99d20a5d2f348faf0e7484944b7e408  
-SHA256:d1b8546e97ec7c28f841811dffeeab1feeea1e841a6f3462eabb4d39058f9af4
-Size:120024
-MD5sum:cea0ede708732c2c90eecbaf0eceba47
+SHA1:dce0c40bc0096017a9eb817169b19f5f6f87c8be  
+SHA256:97eed32c8d19b199022ad442d17bb015ec56c90f75fb1690b353c90153ee0693
+Size:120054
+MD5sum:cb8457d679ee937f04d48ce294496c4f
 Description: An awesome MobileSubstrate tweak!
 Author: Duynamdinh <namdinhvip888@gmail.com>
 Section: Tweaks
@@ -20,10 +20,10 @@ Name: Ví Xả Phong
 Version: 1.2
 Architecture: iphoneos-arm
 Filename: ./debs/phong.deb
-SHA1:7f40dd3f77c3895f045c59ddbd9f8f02edeb2881  
-SHA256:f81e45cc719c637baa0ceda39cd7b6d7c40cc6ffec4f2d56c3d6f21a7373b9e1  
-Size:117656
-MD5sum:77200fbb0835f1bb74a4f4f4e7b4e0b1
+SHA1:35bf83c84fff327baa646a50ecc84d0f90d903ce
+SHA256:6f2b14c18ce3c8d2d3c10abdb362c369963a55206352f03a6e3bdfdddf05b8a7
+Size:117688
+MD5sum:5d5219e3593a6cbc27391153fb1bd295
 Description: Ví của làng game vip nhất hệ mặt trời
 Author: duyhanamdinh <duyhanamdinh8888@gmail.com>
 Section: Tweaks
@@ -36,10 +36,10 @@ Name: Ví Xả Quang
 Version: 1.3
 Architecture: iphoneos-arm
 Filename: ./debs/quang.deb
-SHA1:2621a1a8b78cf597b07ee78b38cb0ee2dc062105
-SHA256:f4a8a91ac354516b9c386e3c90748d779481d17ee033cdcb32d0022cc5e19121
-Size:120004
-MD5sum:1c2080d2cde16b6535784deb6687a76e
+SHA1:8d48951a6bfd39173f183cf5863f8bf79eb0a309
+SHA256:475c9ade0d73751f9cb5e850ea5276ee10ca14a2348f64765b9d87487af7048d
+Size:120016
+MD5sum:2f8117dd2b5297c9fcf36863407bd901
 Description: Ví của làng game vip nhất hệ mặt trời
 Author: duyhanamdinh <duyhanamdinh8888@gmail.com>
 Section: Tweaks
@@ -52,10 +52,10 @@ Name: Ví Xả Thuận
 Version: 1.4
 Architecture: iphoneos-arm
 Filename: ./debs/thuan.deb
-SHA1:76ef5ef21853cf34059cc47e7120e3a1c5b956c4
-SHA256:9427481e15f59373e64f1a38f35c1696f1fee16cbb5fed3cfa51186ea627e9dc
-Size:117664
-MD5sum:7139b202224c09533b2ed82603fb769d
+SHA1:fa8ce1dbd5eaecd0802527c40bdce5996d312d4f
+SHA256:aba62887c01a24ed1a8259f1e7f5f2641402bc09c46628087bfdf0246eb15b5d
+Size:117684
+MD5sum:15c6ef04f0a543c1ee81fdfe4bdb7c8c
 Description: Ví của làng game vip nhất hệ mặt trời
 Author: duyhanamdinh <duyhanamdinh8888@gmail.com>
 Section: Tweaks
@@ -68,10 +68,10 @@ Name: Ví Xả Khương(Chị Ánh 1)
 Version: 1.5
 Architecture: iphoneos-arm
 Filename: ./debs/chianh1.deb
-SHA1:657b55277dc7de7fe0465269c8c34eb244958e05
-SHA256:bd2086d7ff0e202cf87e879b1a035a2197e2cd1381e69753d6ae373f3fa829b5
-Size:56552
-MD5sum:3ae79169aa3dcee3f69ad631dd467ab1
+SHA1:68b2ee50c4741c2fbfcd67726ce8e7ba96764e99
+SHA256:5616efa9b903d3775f2e6813d9128a52efa9d8347c5bc386609be3557cdce2e9
+Size:56574
+MD5sum:0c0b91f5e9b8416c8affd95248f96576
 Description: Ví của làng game vip nhất hệ mặt trời
 Author: duyhanamdinh <duyhanamdinh8888@gmail.com>
 Section: Games
@@ -84,10 +84,10 @@ Name: Ví Xả Khương(Chị Ánh 2)
 Version: 1.6
 Architecture: iphoneos-arm
 Filename: ./debs/chianh2.deb
-SHA1:121b0a5e0eb90737bf693e235dceabc70ec3fd54
-SHA256:d0ef368d501de7ddbd5a890f6c3d26be48c2d733f195b5f1530deb31c99ac1fe
-Size:117674
-MD5sum:bb86e741486885387f736269026626d5
+SHA1:b744941d471e2723ea06e56b72254b046e953a02
+SHA256:45d2018ed2661a20104a5d36d8da181350cd4f1253b56d8501b15fd165dd3fbc
+Size:117706
+MD5sum:0adfdc5b4c381fba690dce195f479a38
 Description: Ví của làng game vip nhất hệ mặt trời
 Author: duyhanamdinh <duyhanamdinh8888@gmail.com>
 Section: Tweaks
@@ -100,10 +100,10 @@ Name: Ví Xả Khương(daminghu của giang)
 Version: 1.7
 Architecture: iphoneos-arm
 Filename: ./debs/gianglongle.deb
-SHA1:5fa32861c9d46f4750b10ea25782d53d60ea50df
-SHA256:edded432fd966dec8acc9b951c9a3acdded68af99fb7f908c5c3887e077f300f
-Size:571214
-MD5sum:03b9d9e83ac0f3e42ab37ed1dd1230a7
+SHA1:a61bf4515709b8c2c36f4eb075327eae3f9f80ba
+SHA256:dce2c717a3bb448be94292445d5b0373213f61ded933510d139fe14487ad6105
+Size:571248
+MD5sum:e4bb4909bc2f284b0c35cc4ccdc92eca
 Description: Ví của làng game vip nhất hệ mặt trời
 Author: duyhanamdinh <duyhanamdinh8888@gmail.com>
 Section: Tweaks
@@ -116,10 +116,10 @@ Name: Ví PaiCSendHelper(Táo Tầu)
 Version: 1.8
 Architecture: iphoneos-arm
 Filename: ./debs/PaiCSendHelper.deb
-SHA1:e850c8092c520cd3c1b73a70b124bfa6a7926343
-SHA256:6afe80a8c288944ecdce1bad44c64abcc832ff9888069eb2e4433fd48ef44712
-Size:2246142
-MD5sum:a408218288401ae0da8561a93447fb3e
+SHA1:e4497021535b3f12e3cd9431a515f7489531c15e
+SHA256:7a1554e6583033eef1eb3cdaf0e0c0fec7dd13a110e4ef0fec0d5181fead961d
+Size:2246190
+MD5sum:8976fe02517d1a596d926f21831da705
 Description: Ví của làng game vip nhất hệ mặt trời
 Author: duyhanamdinh <duyhanamdinh8888@gmail.com>
 Section: System
