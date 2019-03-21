@@ -138,7 +138,39 @@ Size:16222
 MD5sum:dd51c33f4659b7e4126a8c0c7e8cf09a
 Description: Ví của làng game vip nhất hệ mặt trời
 Author: duyhanamdinh <duyhanamdinh8888@gmail.com>
-Section: System
+Section: Tweaks
 Depends: mobilesubstrate, com.rpetrich.rocketbootstrap
+Maintainer: duyhanamdinh <duyhanamdinh8888@gmail.com>
+Author: DuyHa
+
+Package: com.khuongvip8888.xagame
+Name: Xả Game
+Version: 1.0
+Architecture: iphoneos-arm
+Filename: ./debs/xagame.deb
+SHA1:3e2c155797e68b4dcb687501b92095b860e83929
+SHA256:ca91992ffa9627af83ba707882fc46a383f63e29f8a1427c9071899216158eb5
+Size:57334
+MD5sum:76a4df393e2fe1ad646d19bb2d523eac
+Description: Ví của làng game vip nhất hệ mặt trời
+Author: duyhanamdinh <duyhanamdinh8888@gmail.com>
+Section: Tweaks
+Pre-Depends: com.khuongvip8888.hotrovi
+Maintainer: duyhanamdinh <duyhanamdinh8888@gmail.com>
+Author: DuyHa
+
+Package: com.khuongvip8888.hotrovi
+Name: Hỗ Trợ Ví
+Version: 1.0
+Architecture: iphoneos-arm
+Filename: ./debs/hotrovi.deb
+SHA1:1a896b7ddecb7ec9a74b41a3f6c0120ee9f3de0e
+SHA256:41fc18206480f3054ac8620458eac8a5951593d2175cce0870f271d1fb4131b6
+Size:9712
+MD5sum:9c45a9ba4acb2ee170f01ee2a4b3861b
+Description: Ví của làng game vip nhất hệ mặt trời
+Author: duyhanamdinh <duyhanamdinh8888@gmail.com>
+Section: Tweaks
+Depends: mobilesubstrate
 Maintainer: duyhanamdinh <duyhanamdinh8888@gmail.com>
 Author: DuyHa
