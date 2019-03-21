@@ -60,4 +60,3 @@ function loadPackageInfo() {
 		}
 	});
 }
-© 2019 GitHub, Inc.
