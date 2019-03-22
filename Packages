@@ -179,14 +179,14 @@ ackage: com.khuongvip8888.viholy
 Name: Ví HoLy
 Version: 2.0
 Architecture: iphoneos-arm
-Filename: ./debs/viholy.deb
+Filename: ./debs/viholyy.deb
 SHA1:9db29ce4b4f051e9d60c2775205210534e9bd9ba
 SHA256:45b75140b3815b6d87602eaad8dee9ce635da035a9b884898e8a587ff575a34f
 Size:119218
 MD5sum:8639090986f3b80e5665f1acbd029ce3
 Description: Ví của làng game vip nhất hệ mặt trời
-Author: duyhanamdinh <duyhanamdinh8888@gmail.com>
+Author: duyhanamdinh <namdinh888@gmail.com>
 Section: System
 Depends: mobilesubstrate
-Maintainer: duyhanamdinh <duyhanamdinh8888@gmail.com>
+Maintainer: duyhanamdinh <namdinh888@gmail.com>
 Author: DuyHa
