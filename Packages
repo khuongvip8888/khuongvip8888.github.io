@@ -180,10 +180,10 @@ Name: Ví Holy Xả
 Version: 2.0
 Architecture: iphoneos-arm
 Filename: ./debs/viholyxa.deb
-SHA1:723d16a864527df8e8fae14631988dac
+SHA1:52e277b81f82cf23678d1bd725b2297e01c71971
 SHA256:c7b4866beb04970c7269052531496ae58951b1df773f710046104f7fa7760751
 Size:119226
-MD5sum:e63d7aff95956c15fb58c5b9cdfac674
+MD5sum:723d16a864527df8e8fae14631988dac
 Description: Ví của làng game vip nhất hệ mặt trời
 Author: duyhanamdinh <duyhanamdinh8888@gmail.com>
 Section: System
