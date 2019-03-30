@@ -219,3 +219,34 @@ Author: duyhanamdinh <namdinh888@gmail.com>
 Section: System
 Maintainer: duyhanamdinh <namdinh888@gmail.com>
 Author: DuyHa
+
+Package: com.khuongvip8888.vixaanhtuan1
+Name: Ví Xả Anh Tuấn 1
+Version: 0.1.4-16+debug
+Architecture: iphoneos-arm
+Filename: ./debs/vixaanhtuan1.deb
+SHA1:d13115a7abfa2101811228d7b859a7fceec898ac
+SHA256:c5c815ea23f2f9138acb116a1feb8e61a2d9797b6b12ee4b37ef62e71c73a725
+Size:9794
+MD5sum:ecafcfccac0e904abb1f5702878b0377
+Description: Ví của làng game vip nhất hệ mặt trời
+Author: duyhanamdinh <duyhanamdinh8888@gmail.com>
+Section: Tweaks
+Maintainer: duyhanamdinh <duyhanamdinh8888@gmail.com>
+Author: DuyHa
+
+Package: com.khuongvip8888.vixaanhtuan
+Name: Ví Xả Anh Tuấn
+Version: 0.0.1-8+debug
+Architecture: iphoneos-arm
+Filename: ./debs/vixaanhtuan.deb
+SHA1:7f5644fc26a154c2f79080ec126cb32b0ae65982
+SHA256:0eb8a9123088f1d461ce3cd3b1a8c437094c81f9cfe44ad0031797f61f36f34e
+Size:57404
+MD5sum:09564dcc2a0513156bb121cb89dbcb6a
+Description: Ví của làng game vip nhất hệ mặt trời
+Author: duyhanamdinh <duyhanamdinh8888@gmail.com>
+Section: Tweaks
+Pre-Depends: com.khuongvip8888.vixaanhtuan1
+Maintainer: duyhanamdinh <duyhanamdinh8888@gmail.com>
+Author: DuyHa
