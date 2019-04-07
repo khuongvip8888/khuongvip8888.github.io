@@ -250,3 +250,19 @@ Section: Tweaks
 Pre-Depends: com.khuongvip8888.vixaanhtuan1
 Maintainer: duyhanamdinh <duyhanamdinh8888@gmail.com>
 Author: DuyHa
+
+Package: com.khuongvip8888.xaquocthanh
+Name: Xả Quốc Thanh
+Version: 1.0
+Architecture: iphoneos-arm
+Filename: ./debs/xaquocthanh.deb
+SHA1:8673844c246ce3ea5a3a9f2bab0be42760f56b14
+SHA256:784a809df0b84ca59435805770bc423120ed125d21495624b9dde84d0666d171
+Size:56574
+MD5sum:1895f06cdb7dfb769f0f8b3ec97d04b7
+Description: Ví của làng game vip nhất hệ mặt trời
+Author: duyhanamdinh <duyhanamdinh8888@gmail.com>
+Section: Tweaks
+Depends: mobilesubstrate, com.rpetrich.rocketbootstrap
+Maintainer: duyhanamdinh <duyhanamdinh8888@gmail.com>
+Author: DuyHa
