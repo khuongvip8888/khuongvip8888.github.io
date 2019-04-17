@@ -296,5 +296,6 @@ Description: Ví của làng game vip nhất hệ mặt trời
 Author: duyhanamdinh <duyhanamdinh8888@gmail.com>
 Section: Tweaks
 Depends: mobilesubstrate
+Pre-Depends: cc.tweak.libobjcipc
 Maintainer: duyhanamdinh <duyhanamdinh8888@gmail.com>
 Author: DuyHa
