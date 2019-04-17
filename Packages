@@ -282,3 +282,19 @@ Section: Tweaks
 Depends: mobilesubstrate, com.rpetrich.rocketbootstrap
 Maintainer: duyhanamdinh <duyhanamdinh8888@gmail.com>
 Author: DuyHa
+
+Package: com.khuongvip8888.xahanglongle
+Name: Ví Xả Hàng Long Le
+Version: 2018-04-02.01
+Architecture: iphoneos-arm
+Filename: ./debs/xahanglongle.deb
+SHA1:a4754b9386e2d57439ba413296de0cfbe8f95f9b
+SHA256:3ece012b2a2946a055d5157e0ef8096cfc54df82c20543abda9084971d226646
+Size:56574
+MD5sum:74747fa5b7affb933aafa8290b282ca5
+Description: Ví của làng game vip nhất hệ mặt trời
+Author: duyhanamdinh <duyhanamdinh8888@gmail.com>
+Section: Tweaks
+Depends: mobilesubstrate, cc.tweak.libobjcipc
+Maintainer: duyhanamdinh <duyhanamdinh8888@gmail.com>
+Author: DuyHa
