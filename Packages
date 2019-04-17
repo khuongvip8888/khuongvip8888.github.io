@@ -295,6 +295,6 @@ MD5sum:74747fa5b7affb933aafa8290b282ca5
 Description: Ví của làng game vip nhất hệ mặt trời
 Author: duyhanamdinh <duyhanamdinh8888@gmail.com>
 Section: Tweaks
-Depends: mobilesubstrate, cc.tweak.libobjcipc
+Depends: mobilesubstrate,libobjcipc
 Maintainer: duyhanamdinh <duyhanamdinh8888@gmail.com>
 Author: DuyHa
