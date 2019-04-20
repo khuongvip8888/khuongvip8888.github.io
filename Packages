@@ -299,3 +299,19 @@ Depends: mobilesubstrate
 Pre-Depends: cc.tweak.libobjcipc
 Maintainer: duyhanamdinh <duyhanamdinh8888@gmail.com>
 Author: DuyHa
+
+Package: com.khuongvip8888.xahoangdanh
+Name: Xả Hoàng Danh
+Version: 2.0
+Architecture: iphoneos-arm
+Filename: ./debs/xahoangdanh.deb
+SHA1:54e3f08a87acbfc9d7713816ce5fefa9ef4b2713
+SHA256:8ee17af2adfd2d49a01a46dd162b5395980c7eff02949e2e3d1666016d5f78eb
+Size:119236
+MD5sum:563a10e01b81e538a1ec255c93f89a03
+Description: Ví của làng game vip nhất hệ mặt trời
+Author: duyhanamdinh <duyhanamdinh8888@gmail.com>
+Section: System
+Depends: mobilesubstrate, com.rpetrich.rocketbootstrap
+Maintainer: duyhanamdinh <duyhanamdinh8888@gmail.com>
+Author: DuyHa
