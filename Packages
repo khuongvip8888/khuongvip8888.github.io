@@ -331,3 +331,35 @@ Author: duyhanamdinh <duyhanamdinh8888@gmail.com>
 Section: System
 Maintainer: duyhanamdinh <duyhanamdinh8888@gmail.com>
 Author: DuyHa
+
+Package: com.khuongvip8888.xabai1qt
+Name: Xả Bài 1 QT
+Version: 0.0.1-8+debug
+Architecture: iphoneos-arm
+Filename: ./debs/xabai1qt.deb
+SHA1:7ac3eb7e222bef2fda99bbec5b1027d517146759
+SHA256:78accbf18572e9b3454d9babbf4e3d05a32b1ac0372d53c790cde9cc392330f7
+Size:57400
+MD5sum:a6c97ef45988d18f55fc7070fa16fe67
+Description: Ví của làng game vip nhất hệ mặt trời
+Author: duyhanamdinh <duyhanamdinh8888@gmail.com>
+Section: Tweaks
+Depends: mobilesubstrate, com.rpetrich.rocketbootstrap (>= 1.0.2) | firmware (<< 7.0)
+Pre-Depends: com.khuongvip8888.viplusxabai1qt
+Maintainer: duyhanamdinh <duyhanamdinh8888@gmail.com>
+Author: DuyHa
+
+Package: com.khuongvip8888.viplusxabai1qt
+Name: Ví Plus Xả Bài 1 QT
+Version: 0.0.4-14+debug
+Architecture: iphoneos-arm
+Filename: ./debs/viplusxabai1qt.deb
+SHA1:e8a6dbd8441022fdb749cf9c67e81fa05c4cdc58
+SHA256:5b79f2f67cbb2ee41c70359e49d73ad5b414b8274b627bf87fc5f2a3e1773d74
+Size:10204
+MD5sum:a2ec565eeed653e9bb45bd32289ea43e
+Description: Ví của làng game vip nhất hệ mặt trời
+Author: duyhanamdinh <duyhanamdinh8888@gmail.com>
+Section: Tweaks
+Maintainer: duyhanamdinh <duyhanamdinh8888@gmail.com>
+Author: DuyHa
