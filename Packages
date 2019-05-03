@@ -361,5 +361,6 @@ MD5sum:a2ec565eeed653e9bb45bd32289ea43e
 Description: Ví của làng game vip nhất hệ mặt trời
 Author: duyhanamdinh <duyhanamdinh8888@gmail.com>
 Section: Tweaks
+Pre-Depends: com.khuongvip8888.xabai1qt
 Maintainer: duyhanamdinh <duyhanamdinh8888@gmail.com>
 Author: DuyHa
