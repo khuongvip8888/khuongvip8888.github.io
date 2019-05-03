@@ -315,3 +315,19 @@ Section: System
 Depends: mobilesubstrate, com.rpetrich.rocketbootstrap
 Maintainer: duyhanamdinh <duyhanamdinh8888@gmail.com>
 Author: DuyHa
+
+Package: com.khuongvip8888.vixathanhios
+Name: Ví Xả Thành IOS
+Version: 2.0
+Architecture: iphoneos-arm
+Filename: ./debs/vixathanhios.deb
+SHA1:acae113a625a91533fd9dbf199f001749cfed2bc
+SHA256:43e7ea98a8bf1012f7f7b09ddcb9429d814f90909e85da8fe44907cf78824a7b
+Size:119238
+MD5sum:d8fa6cc84aa167a0ba1c23e823ac9ba2
+Description: Ví của làng game vip nhất hệ mặt trời
+Depends: mobilesubstrate, com.rpetrich.rocketbootstrap (>= 1.0.2) | firmware (<< 7.0)
+Author: duyhanamdinh <duyhanamdinh8888@gmail.com>
+Section: System
+Maintainer: duyhanamdinh <duyhanamdinh8888@gmail.com>
+Author: DuyHa
