@@ -337,10 +337,10 @@ Name: Xả Bài 1 QT
 Version: 0.0.1-8+debug
 Architecture: iphoneos-arm
 Filename: ./debs/xabai1qt.deb
-SHA1:7ac3eb7e222bef2fda99bbec5b1027d517146759
-SHA256:78accbf18572e9b3454d9babbf4e3d05a32b1ac0372d53c790cde9cc392330f7
-Size:57400
-MD5sum:a6c97ef45988d18f55fc7070fa16fe67
+SHA1:1bd3f629588de1abc457e3c223083c6348236aa2
+SHA256:9e51c285c2db5ed0531a1802565a43dbc52425e325ab24b44d8537fb3afb0ce5
+Size:57422
+MD5sum:403ab8aef99d0d13c93ffa5a4a6cf063
 Description: Ví của làng game vip nhất hệ mặt trời
 Author: duyhanamdinh <duyhanamdinh8888@gmail.com>
 Section: Tweaks
@@ -354,10 +354,10 @@ Name: Ví Plus Xả Bài 1 QT
 Version: 0.0.4-14+debug
 Architecture: iphoneos-arm
 Filename: ./debs/viplusxabai1qt.deb
-SHA1:e8a6dbd8441022fdb749cf9c67e81fa05c4cdc58
-SHA256:5b79f2f67cbb2ee41c70359e49d73ad5b414b8274b627bf87fc5f2a3e1773d74
-Size:10204
-MD5sum:a2ec565eeed653e9bb45bd32289ea43e
+SHA1:693e5a1bca3b5bdc6116fb78e18157c3b8fa8cd6
+SHA256:27d1a3cead6ecf2cd214b6df0d2b7dab8881448371a18f957dd56a953aebd8d9
+Size:10224
+MD5sum:32d10cd6976373f7bf7a2ff2e8974027
 Description: Ví của làng game vip nhất hệ mặt trời
 Author: duyhanamdinh <duyhanamdinh8888@gmail.com>
 Section: Tweaks
