@@ -354,13 +354,12 @@ Name: Ví Plus Xả Bài 1 QT
 Version: 0.0.4-14+debug
 Architecture: iphoneos-arm
 Filename: ./debs/viplusxabai1qt.deb
-SHA1:693e5a1bca3b5bdc6116fb78e18157c3b8fa8cd6
-SHA256:27d1a3cead6ecf2cd214b6df0d2b7dab8881448371a18f957dd56a953aebd8d9
-Size:10224
-MD5sum:32d10cd6976373f7bf7a2ff2e8974027
+SHA1:c5847644881645a1e1ce067e280a0dce17933fb3
+SHA256:307e7e4cc86455b79ebd20370494a38cb232cf3841c5e9f612b91166d5a86c2f
+Size:10206
+MD5sum:51dda93bd04a5c8d160ae5f25863e65b
 Description: Ví của làng game vip nhất hệ mặt trời
 Author: duyhanamdinh <duyhanamdinh8888@gmail.com>
 Section: Tweaks
-Pre-Depends: com.khuongvip8888.xabai1qt
 Maintainer: duyhanamdinh <duyhanamdinh8888@gmail.com>
 Author: DuyHa
