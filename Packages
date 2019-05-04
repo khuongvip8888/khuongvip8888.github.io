@@ -337,10 +337,10 @@ Name: Xả Bài 1 QT
 Version: 0.0.1-8+debug
 Architecture: iphoneos-arm
 Filename: ./debs/xabai1qt.deb
-SHA1:1bd3f629588de1abc457e3c223083c6348236aa2
-SHA256:9e51c285c2db5ed0531a1802565a43dbc52425e325ab24b44d8537fb3afb0ce5
-Size:57422
-MD5sum:403ab8aef99d0d13c93ffa5a4a6cf063
+SHA1:874c3c974029e2b1b8c4e0e226137af985f20270
+SHA256:acb18a72a7238465601d9a0621cf7818c060d37d091b0bf174a512d612a5e1e5
+Size:57408
+MD5sum:2f8eb819c53dbe456a75c2376e843aa2
 Description: Ví của làng game vip nhất hệ mặt trời
 Author: duyhanamdinh <duyhanamdinh8888@gmail.com>
 Section: Tweaks
