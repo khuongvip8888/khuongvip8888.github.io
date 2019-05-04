@@ -337,15 +337,15 @@ Name: Xả Bài 1 QT
 Version: 0.0.1-8+debug
 Architecture: iphoneos-arm
 Filename: ./debs/xabai1qt.deb
-SHA1:874c3c974029e2b1b8c4e0e226137af985f20270
-SHA256:acb18a72a7238465601d9a0621cf7818c060d37d091b0bf174a512d612a5e1e5
+SHA1:f13a6ea5d4469cc69d64467b7197d1d0ce99af9c
+SHA256:434aeec7d29aacf67f87b24f5787647b964422dd6456d72962b9cd10e4b504b7
 Size:57408
-MD5sum:2f8eb819c53dbe456a75c2376e843aa2
+MD5sum:0bc97f6f36978ae82d809c85415b3d05
 Description: Ví của làng game vip nhất hệ mặt trời
 Author: duyhanamdinh <duyhanamdinh8888@gmail.com>
 Section: Tweaks
-Depends: mobilesubstrate, com.rpetrich.rocketbootstrap (>= 1.0.2) | firmware (<< 7.0)
 Pre-Depends: com.khuongvip8888.viplusxabai1qt
+Depends: mobilesubstrate, com.rpetrich.rocketbootstrap (>= 1.0.2) | firmware (<< 7.0)
 Maintainer: duyhanamdinh <duyhanamdinh8888@gmail.com>
 Author: DuyHa
 
