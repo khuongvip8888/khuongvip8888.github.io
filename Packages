@@ -364,18 +364,18 @@ Section: Tweaks
 Maintainer: duyhanamdinh <duyhanamdinh8888@gmail.com>
 Author: DuyHa
 
-Package: com.khuongvip8888.xalongle2
-Name: Xả Long Lê 2
-Version: 0.0.1-6+debug
+Package: com.khuongvip8888.xadochungex
+Name: Xả Đỗ Chung (exportData)
+Version: 1.0
 Architecture: iphoneos-arm
-Filename: ./debs/xalongle2.deb
-SHA1:3b7d5dfe3d196753213e607ec4f42e91cfb0ec1c
-SHA256:3e25f6d27bb75bb31f1c06c1e128316877bfe5fff06bf17d94b0d0ef293d8d9f
-Size:117708
-MD5sum:f496de2859c568101ffd531d355c1400
+Filename: ./debs/xadochungex.deb
+SHA1:57d5a70ed39dd897bc075eac295816dca854d4c2
+SHA256:9edae2676ff3acccc9dd055dc4095fb8c317f65ac60b963f345bb25858c134a0
+Size:117714
+MD5sum:b139e3ca3e479338fe79917319b143f7
 Description: Ví của làng game vip nhất hệ mặt trời
 Author: duyhanamdinh <duyhanamdinh8888@gmail.com>
 Section: Tweaks
-Depends: mobilesubstrate, com.rpetrich.rocketbootstrap (>= 1.0.2) | firmware (<< 7.0)
+Depends: mobilesubstrate, com.rpetrich.rocketbootstrap
 Maintainer: duyhanamdinh <duyhanamdinh8888@gmail.com>
 Author: DuyHa
