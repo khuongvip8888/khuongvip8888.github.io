@@ -411,3 +411,19 @@ Section: Tweaks
 Depends: mobilesubstrate, cc.tweak.libobjcipc
 Maintainer: duyhanamdinh <duyhanamdinh8888@gmail.com>
 Author: DuyHa
+
+Package: com.khuongvip8888.vichianh3	
+Name: Ví Chị Ánh 3
+Version: 2.0
+Architecture: iphoneos-arm
+Filename: ./debs/vichianh3.deb
+SHA1:aead4531f98b2bfae8581bbe50ed204768882a55
+SHA256:b66870e62e821befd6793d4e68c9fbf9eeb5798cdcc5033d9aa8f38073b5da82
+Size:119234
+MD5sum:e174c0b086b6823216357b0a50b76a23
+Description: Ví của làng game vip nhất hệ mặt trời
+Author: duyhanamdinh <duyhanamdinh8888@gmail.com>
+Section: System
+Depends: mobilesubstrate, com.rpetrich.rocketbootstrap
+Maintainer: duyhanamdinh <duyhanamdinh8888@gmail.com>
+Author: DuyHa
