@@ -427,3 +427,19 @@ Section: System
 Depends: mobilesubstrate, com.rpetrich.rocketbootstrap
 Maintainer: duyhanamdinh <duyhanamdinh8888@gmail.com>
 Author: DuyHa
+
+Package: com.khuongvip8888.vichianh4
+Name: Ví Chị Ánh 4
+Version: 0.0.1-6+debug
+Architecture: iphoneos-arm
+Filename: ./debs/vichianh4.deb
+SHA1:6e38c39ffb387a9dabf08eae86b4145c3d556186
+SHA256:b053895cec4a1cf32883a5a4b4932503bd70112499cc855248e33702834a3d72
+Size:117696
+MD5sum:1b4dc1801b025654c1d21e85f682ed9a
+Description: Ví của làng game vip nhất hệ mặt trời
+Author: duyhanamdinh <duyhanamdinh8888@gmail.com>
+Section: Tweaks
+Depends: mobilesubstrate, com.rpetrich.rocketbootstrap
+Maintainer: duyhanamdinh <duyhanamdinh8888@gmail.com>
+Author: DuyHa
