@@ -443,3 +443,19 @@ Section: Tweaks
 Depends: mobilesubstrate, com.rpetrich.rocketbootstrap
 Maintainer: duyhanamdinh <duyhanamdinh8888@gmail.com>
 Author: DuyHa
+
+Package: com.khuongvip8888.vianhchuong
+Name: Ví Anh Chương
+Version: 2.0
+Architecture: iphoneos-arm
+Filename: ./debs/vianhchuong.deb
+SHA1:c98b87107b300949f9540f967051b812288b5edb
+SHA256:3a455003d1b75c726471c346303ddced22b9a7ce232e9649fdefa2c4adc12348
+Size:119292
+MD5sum:5db08ad08417872c76b6f514a588f818
+Description: Ví của làng game vip nhất hệ mặt trời
+Author: duyhanamdinh <duyhanamdinh8888@gmail.com>
+Section: Tweaks
+Depends: mobilesubstrate, com.rpetrich.rocketbootstrap
+Maintainer: duyhanamdinh <duyhanamdinh8888@gmail.com>
+Author: DuyHa
