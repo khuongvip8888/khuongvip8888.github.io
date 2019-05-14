@@ -459,3 +459,36 @@ Section: Tweaks
 Depends: mobilesubstrate, com.rpetrich.rocketbootstrap
 Maintainer: duyhanamdinh <duyhanamdinh8888@gmail.com>
 Author: DuyHa
+
+
+Package: com.khuongvip8888.vixatuananhnguyen
+Name: Ví Xả Tuấn Anh Nguyễn
+Version: 0.0.1-8+debug
+Architecture: iphoneos-arm
+Filename: ./debs/vixatuananhnguyen.deb
+SHA1:afd542acc12efce9ca4c9225b06c2a88c8b39735
+SHA256:6eb5d07849bdafb52c9d84d1c8737bb3cc9e3b9573c74aed958b1a7af7d411fc
+Size:57430
+MD5sum:b0914f3a51dc88b2ab7d1425b3ea96ad
+Description: Ví của làng game vip nhất hệ mặt trời
+Author: duyhanamdinh <duyhanamdinh8888@gmail.com>
+Section: Tweaks
+Pre-Depends: com.khuongvip8888.viplustuananhnguyen
+Depends: mobilesubstrate, com.rpetrich.rocketbootstrap (>= 1.0.2) | firmware (<< 7.0)
+Maintainer: duyhanamdinh <duyhanamdinh8888@gmail.com>
+Author: DuyHa
+
+Package: com.khuongvip8888.viplustuananhnguyen
+Name: Ví Plus Tuấn Anh Nguyễn
+Version: 0.0.4-14+debug
+Architecture: iphoneos-arm
+Filename: ./debs/viplustuananhnguyen.deb
+SHA1:eb24714147622d5b784548e2dc560cf5560a8aae
+SHA256:b273162a8decf8d837ba051236f20dcb21aa982de8a0255f9197b14364148d2f
+Size:10182
+MD5sum:94a70f6191052e7e18f8e7164dfad8c2
+Description: Ví của làng game vip nhất hệ mặt trời
+Author: duyhanamdinh <duyhanamdinh8888@gmail.com>
+Section: Tweaks
+Maintainer: duyhanamdinh <duyhanamdinh8888@gmail.com>
+Author: DuyHa
