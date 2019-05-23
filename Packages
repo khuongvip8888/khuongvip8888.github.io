@@ -492,3 +492,18 @@ Author: duyhanamdinh <duyhanamdinh8888@gmail.com>
 Section: Tweaks
 Maintainer: duyhanamdinh <duyhanamdinh8888@gmail.com>
 Author: DuyHa
+
+Package: com.khuongvip8888.xalongle3
+Name: Ví Xả Long Lê 3
+Version: 0.0.1
+Architecture: iphoneos-arm
+Filename: ./debs/xalongle3.deb
+SHA1:d7b422d0a272d32cda6d4d23196f959389b23fc2
+SHA256:728945db8e60b18abca9e409f5bce0113a9b756c61ac587fea50a887410c8fbc
+Size:72364
+MD5sum:1c432edc6b19043b5243e8f3c13ae18f
+Description: Ví của làng game vip nhất hệ mặt trời
+Author: duyhanamdinh <duyhanamdinh8888@gmail.com>
+Section: Tweaks
+Maintainer: duyhanamdinh <duyhanamdinh8888@gmail.com>
+Author: DuyHa
