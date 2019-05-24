@@ -507,3 +507,18 @@ Author: duyhanamdinh <duyhanamdinh8888@gmail.com>
 Section: Tweaks
 Maintainer: duyhanamdinh <duyhanamdinh8888@gmail.com>
 Author: DuyHa
+
+Package: com.khuongvip8888.vichianh5	
+Name: Ví Chị Ánh 5 (리니지 M)
+Version: 0.0.1-12+debug
+Architecture: iphoneos-arm
+Filename: ./debs/vichianh5.deb
+SHA1:9c8a56e3d5e8fb45f83334cb86a08c53548b3198
+SHA256:f58f0f049400273c6bf04ea255962384735a00be57b1da38743cd0456a6aeb8d
+Size:108880
+MD5sum:917ccf40758a0a5d9028d783b8db10c8
+Description: Ví của làng game vip nhất hệ mặt trời
+Author: duyhanamdinh <duyhanamdinh8888@gmail.com>
+Section: Tweaks
+Maintainer: duyhanamdinh <duyhanamdinh8888@gmail.com>
+Author: DuyHa
