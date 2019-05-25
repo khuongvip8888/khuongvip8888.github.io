@@ -522,3 +522,18 @@ Author: duyhanamdinh <duyhanamdinh8888@gmail.com>
 Section: Tweaks
 Maintainer: duyhanamdinh <duyhanamdinh8888@gmail.com>
 Author: DuyHa
+
+Package: com.khuongvip8888.xadochung2
+Name: Ví Xả Đỗ Chung 2
+Version: 2.1
+Architecture: iphoneos-arm
+Filename: ./debs/xadochung2.deb
+SHA1:6b25c41f32dad423f2f9e3f452d310ccea4d3a40
+SHA256:e24a10a2350d56d6fe8ed5512910689cf48b49576293427fbb90c57cdcc4567d
+Size:119280
+MD5sum:83b216270d60ebd86f90cbadb7b88ff1
+Description: Ví của làng game vip nhất hệ mặt trời
+Author: Anh Khương <anhkhuongvip8888@gmail.com>
+Section: System
+Depends: mobilesubstrate, com.rpetrich.rocketbootstrap
+Maintainer: Anh Khương <anhkhuongvip8888@gmail.com>
