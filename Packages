@@ -537,3 +537,18 @@ Author: Anh Khương <anhkhuongvip8888@gmail.com>
 Section: System
 Depends: mobilesubstrate, com.rpetrich.rocketbootstrap
 Maintainer: Anh Khương <anhkhuongvip8888@gmail.com>
+
+Package: com.khuongvip8888.vixavanlong
+Name: Ví Xả Văn Long
+Version: 0.0.1
+Architecture: iphoneos-arm
+Filename: ./debs/vixavanlong.deb
+SHA1:c2cdb6d7fa49e45660d11d900c3063e644943555
+SHA256:7e557e2ae123a5c24accdc8ed62b5acc6e3c0886bf357217ab3846ea1ae4597a
+Size:72614
+MD5sum:b389453f3b8a480501effe8897cc5a66
+Description: Ví của làng game vip nhất hệ mặt trời
+Author: Anh Khương <anhkhuongvip8888@gmail.com>
+Section: System
+Depends: mobilesubstrate, com.rpetrich.rocketbootstrap
+Maintainer: Anh Khương <anhkhuongvip8888@gmail.com>
