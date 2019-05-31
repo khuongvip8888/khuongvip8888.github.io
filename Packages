@@ -549,6 +549,6 @@ Size:72614
 MD5sum:b389453f3b8a480501effe8897cc5a66
 Description: Ví của làng game vip nhất hệ mặt trời
 Author: Anh Khương <anhkhuongvip8888@gmail.com>
-Section: System
+Section: Tweaks
 Depends: mobilesubstrate, com.rpetrich.rocketbootstrap
 Maintainer: Anh Khương <anhkhuongvip8888@gmail.com>
