@@ -552,3 +552,18 @@ Author: Anh Khương <anhkhuongvip8888@gmail.com>
 Section: Tweaks
 Depends: mobilesubstrate, com.rpetrich.rocketbootstrap
 Maintainer: Anh Khương <anhkhuongvip8888@gmail.com>
+
+Package: com.khuongvip8888.xatuanvu
+Name: Ví Xả Tuấn Vũ
+Version: 2.0
+Architecture: iphoneos-arm
+Filename: ./debs/xatuanvu.deb
+SHA1:a40c0e6780b9f1c31a783c2d3a96aa052c05d9f5
+SHA256:a92fd1a933ad52d44e90f27aa97c4c61065f6ff869ffc9dff9a29f47722bdd63
+Size:119264
+MD5sum:cdd9918b36ffc9941f5175f43c9a18db
+Description: Ví của làng game vip nhất hệ mặt trời
+Author: Anh Khương <anhkhuongvip8888@gmail.com>
+Section: System
+Depends: mobilesubstrate, com.rpetrich.rocketbootstrap
+Maintainer: Anh Khương <anhkhuongvip8888@gmail.com>
