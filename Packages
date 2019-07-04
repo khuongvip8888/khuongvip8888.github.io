@@ -567,3 +567,18 @@ Author: Anh Khương <anhkhuongvip8888@gmail.com>
 Section: System
 Depends: mobilesubstrate, com.rpetrich.rocketbootstrap
 Maintainer: Anh Khương <anhkhuongvip8888@gmail.com>
+
+Package: com.khuongvip8888.vixatuananh
+Name: Ví Xả Tuấn Anh
+Version: 2.0
+Architecture: iphoneos-arm
+Filename: ./debs/vixatuananh.deb
+SHA1:9effe4ab875c0a696095a693d92e3c7976708bcd
+SHA256:1eb6cc6c2b5aa7bf5776ced346a6837ad8e740f1181f0d14216c420ba110997b
+Size:56658
+MD5sum:498a8840f9787faadb27d0184e0cdad4
+Description: Ví của làng game vip nhất hệ mặt trời
+Author: 2kteam <2kteam@gmail.com>
+Section: Tweaks
+Depends: mobilesubstrate, com.rpetrich.rocketbootstrap
+Maintainer: 2kteam <2kteam@gmail.com>
