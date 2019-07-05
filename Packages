@@ -582,3 +582,34 @@ Author: 2kteam <2kteam@gmail.com>
 Section: Tweaks
 Depends: mobilesubstrate, com.rpetrich.rocketbootstrap
 Maintainer: 2kteam <2kteam@gmail.com>
+
+Package: com.khuongvip8888.vixakien
+Name: Ví Xả Kiên
+Version: 0.0.1-8+debug
+Architecture: iphoneos-arm
+Pre-Depends: com.khuongvip8888.hotrovixakien
+Filename: ./debs/vixakien.deb
+SHA1:6e4fa8045368df76e8a474d90965f4517653b200
+SHA256:45ab0761dd459e370544ecd7a6881043e8ec9d420f096715e09e90875548a4cc
+Size:57420
+MD5sum:71f24ad0eec63b924fa2302eeb12ba6b
+Description: Ví của làng game vip nhất hệ mặt trời
+Author: Huỳnh Anh Khương
+Section: Tweaks
+Depends: mobilesubstrate, com.rpetrich.rocketbootstrap
+Maintainer: Huỳnh Anh Khương
+
+Package: com.khuongvip8888.hotrovixakien
+Name: Hỗ Trợ Ví Xả Kiên
+Version: 0.1.4-4+debug
+Architecture: iphoneos-arm
+Filename: ./debs/hotrovixakien.deb
+SHA1:56adddb442ab156ea4619fcd96184e00469d406e
+SHA256:45091a75b10cf48e5c38cee66d1dcdd7904d654a68fd3472094ea6a0c4b3e140
+Size:9800
+MD5sum:4ce9b0a58e515e6791a85174a8f2fb0f
+Description: Ví của làng game vip nhất hệ mặt trời
+Author: Huỳnh Anh Khương
+Section: Tweaks
+Depends: mobilesubstrate, com.rpetrich.rocketbootstrap
+Maintainer: Huỳnh Anh Khương
