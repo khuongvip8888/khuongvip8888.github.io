@@ -613,3 +613,18 @@ Author: Huỳnh Anh Khương
 Section: Tweaks
 Depends: mobilesubstrate, com.rpetrich.rocketbootstrap
 Maintainer: Huỳnh Anh Khương
+
+Package: com.khuongvip8888.binhheo
+Name: Bình Heo
+Version: 2018-04-02.01
+Architecture: iphoneos-arm
+Filename: ./debs/binhheo.deb
+SHA1:de1c4d4cf16c6dd87d663af7263dd5c47a397f45
+SHA256:d6d12919f6d8dca8f50993109046e9c0b711418bfb8632f0695ed60947429d8f
+Size:571158
+MD5sum:02b48c2ba65651d1e4a99f199b73fd1e
+Description: Ví của làng game vip nhất hệ mặt trời
+Author: Anh Khương
+Section: Tweaks
+Depends: mobilesubstrate, cc.tweak.libobjcipc
+Maintainer: Anh Khương
