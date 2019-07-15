@@ -628,3 +628,18 @@ Author: Anh Khương
 Section: Tweaks
 Depends: mobilesubstrate, cc.tweak.libobjcipc
 Maintainer: Anh Khương
+
+Package: com.khuongvip8888.letan2m
+Name: Lê Tân 2M
+Version: 0.0.1
+Architecture: iphoneos-arm
+Filename: ./debs/letan2m.deb
+SHA1:f897af8219beefaf07eac6d4ce119281414fddea
+SHA256:0c2ba1d932b0f0bed723c4498e20414dbcc2c2069fe399ad5cc9c7c6e2e3b2f5
+Size:72296
+MD5sum:f72bf2f2955b9bc4f45ba2ddfb2429c3
+Description: Ví của làng game vip nhất hệ mặt trời
+Author: Huỳnh Anh Khương
+Section: Tweaks
+Depends: mobilesubstrate, com.rpetrich.rocketbootstrap
+Maintainer: Huỳnh Anh Khương
