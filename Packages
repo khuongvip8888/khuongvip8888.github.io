@@ -643,3 +643,18 @@ Author: Huỳnh Anh Khương
 Section: Tweaks
 Depends: mobilesubstrate, com.rpetrich.rocketbootstrap
 Maintainer: Huỳnh Anh Khương
+
+Package: com.khuongvip8888.vixalongtranm
+Name: Ví Xả Long Trần M
+Version: 0.0.1
+Architecture: iphoneos-arm
+Filename: ./debs/vixalongtranm.deb
+SHA1:83b2baca31f432bb5d2088035fe36d792c7481b5
+SHA256:361c394b43edaab36fbb544f9d22a2aac0afbddd5f2873267bb4a21730e56203
+Size:72322
+MD5sum:dcf53c8df88e8023bd03b069c70b9cec
+Description: Ví của làng game vip nhất hệ mặt trời
+Author: Anh Khương
+Section: Tweaks
+Depends: mobilesubstrate, com.rpetrich.rocketbootstrap
+Maintainer: Anh Khương
