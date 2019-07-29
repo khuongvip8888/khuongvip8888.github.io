@@ -658,3 +658,17 @@ Author: Anh Khương
 Section: Tweaks
 Depends: mobilesubstrate, com.rpetrich.rocketbootstrap
 Maintainer: Anh Khương
+
+Package: com.khuongvip8888.vixaminhnguyen
+Version: 0.0.1
+Architecture: iphoneos-arm
+Filename: ./debs/vixaminhnguyen.deb
+SHA1:55601145bf6ed94a904a5628a8e472eae1998b00
+SHA256:8b6bf721bcc0769dc2d8e6f37ed5062947f2c90e6e4a53507ab4a34e07100f56s
+Size:72326
+MD5sum:34aa4655f3502476c73838fec0e1343b
+Description: Ví của làng game vip nhất hệ mặt trời
+Author: Anh Khương
+Section: Tweaks
+Depends: mobilesubstrate, com.rpetrich.rocketbootstrap
+Maintainer: Anh Khương
