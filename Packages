@@ -660,6 +660,7 @@ Depends: mobilesubstrate, com.rpetrich.rocketbootstrap
 Maintainer: Anh Khương
 
 Package: com.khuongvip8888.vixaminhnguyen
+Name: Ví Xả Minh Nguyễn
 Version: 0.0.1
 Architecture: iphoneos-arm
 Filename: ./debs/vixaminhnguyen.deb
