@@ -673,3 +673,18 @@ Author: Anh Khương
 Section: Tweaks
 Depends: mobilesubstrate, com.rpetrich.rocketbootstrap
 Maintainer: Anh Khương
+
+Package: com.khuongvip8888.vixahangtrung
+Name: Ví Xả Hàng Trung
+Version: 2.1
+Architecture: iphoneos-arm
+Filename: ./debs/vixahangtrung.deb
+SHA1:cb5e1dd0e661f593d2c5c418b387b843eee713bc
+SHA256:2584aacba814ce3fd5990109dba0c44fe6a984472a1b8ecbec77d2ad23531bc0
+Size:56688
+MD5sum:1948c7e7b3844b7b8b263e02d29781f5
+Description: Ví của làng game vip nhất hệ mặt trời
+Author: Anh Khương
+Section: Tweaks
+Depends: mobilesubstrate, com.rpetrich.rocketbootstrap
+Maintainer: Anh Khương
