@@ -688,3 +688,18 @@ Author: Anh Khương
 Section: Tweaks
 Depends: mobilesubstrate, com.rpetrich.rocketbootstrap
 Maintainer: Anh Khương
+
+Package: com.khuongvip8888.xakiettuan
+Name: Xả KietTuan
+Version: 2.0
+Architecture: iphoneos-arm
+Filename: ./debs/xakiettuan.deb
+SHA1:8eca1072927a85229c90c86aa873430540e56f8d
+SHA256:d2c5ba1b6019cf9504a792be0367f9fd5f094ac888ef0878407fddad45d322ee
+Size:119226
+MD5sum:507327fccf40409c9d67993694131267
+Description: Ví của làng game vip nhất hệ mặt trời
+Author: Anh Khương
+Section: System
+Depends: mobilesubstrate, com.rpetrich.rocketbootstrap
+Maintainer: Anh Khương
